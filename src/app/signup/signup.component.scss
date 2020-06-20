@@ -1,0 +1,107 @@
+.content{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  
+}
+.second{
+    background-color: #cceabb;
+}
+
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 130px;
+    padding: 0 0;
+    text-align: center;
+
+}
+.modal-content{
+    background-color: #f7fbe1;
+    opacity: .8;
+    padding: 0 18px;
+    border-radius: 10px;
+margin-top: 12em;
+width: 450px;
+margin-left: -25px;
+}
+
+.user-img img{
+    height: 120px;
+    width: 120px;
+
+}
+
+.user-img{
+    margin-top: -60px;
+    margin-bottom: 35px;
+}
+
+
+
+.form-group input{
+    height:45px;
+    border-radius: 5px;
+    border:0;
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding-left: 54px;
+}
+
+.fa{
+    position: absolute;
+    font-size: 22px;
+    left: 50px;
+    padding-top: 13px;
+    color: #555e60;
+
+}
+
+
+
+.btn-success{
+    background-color: #1c6288;
+    font-size: 19px;
+    border-radius: 5px;
+    padding:7px 14px;
+    border:1px solid #daf1ff;
+}
+.btn-success:hover{
+    background-color: #142850;
+    border:1px solid #daf1ff;
+}
+
+
+.forgot a{
+    color:#2577aa;
+}
+.signup{
+    padding: 5px 0px 50px ;
+    color: #2577aa;
+
+}
+.col-auto{
+    width: 150px;
+}
+
+
+
+.btn-block{
+    width: 20rem;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #FFFFFF ;
+    color: #393e46;
+    font: Roboto-Medium;
+}
+.col-md-6{
+    width: 50px;
+}
