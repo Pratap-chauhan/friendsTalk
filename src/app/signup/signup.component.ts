@@ -36,14 +36,14 @@ export class SignupComponent implements OnInit {
     this.login = false;
   }
   signInWithGoogle(): void {
-    this.authService.signIn(GoogleLoginProvider.PROVIDER_ID);
+    // this.authService.signIn(GoogleLoginProvider.PROVIDER_ID);
   }
  
   signInWithFB(): void {
-    this.authService.signIn(FacebookLoginProvider.PROVIDER_ID);
+    // this.authService.signIn(FacebookLoginProvider.PROVIDER_ID);
   }
  
   signOut(): void {
-    this.authService.signOut();
+    // this.authService.signOut();
   }
 }

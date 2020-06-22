@@ -1,0 +1,61 @@
+.postImage{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    float: left;
+    background: #fff;
+}
+.postedImage{
+    width: 47px;
+    height: 42px;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    float: left;
+    background: #fff;
+}
+.postedMessage{
+    margin-top: 29px;
+}
+.postedCard {
+    margin-top: 50px;
+    border: 1px solid #80808040;
+    border-radius: 7px;
+    padding: 17px 17px 3px;
+
+    
+}
+.postLike{
+    border-right: 1px solid #80808045;
+}
+.postedComment{
+    padding-left: 31px;
+}
+
+.dasboard{
+     /* margin-top: 200px; */
+    //  background-image: url('/assets/village1.jpg');
+    //  /* width: 100vw; */
+    //  height: 100vh; 
+    //  padding-top: 200px;
+    //  background-repeat: no-repeat;
+    //  background-size: cover;
+
+
+     background-image: url(/assets/village3.jpeg);
+    /* height: 100vh; */
+    padding-top: 200px;
+    background-repeat: no-repeat;
+    background-size: 100% 65%;
+    width: 100vw;
+    /* width: 100px; */
+    background-position: top;
+    background-color: #f2f7f0;
+    background-attachment: fixed;
+}
+.postSection{
+    background: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 17px;
+}

@@ -14,6 +14,7 @@ import {
   GoogleLoginProvider,
   FacebookLoginProvider,
 } from 'angularx-social-login';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import {
     NavbarComponent,
     FooterComponent,
     SignupComponent,
+    DashboardComponent,
 
   ],
   imports: [
